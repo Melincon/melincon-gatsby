@@ -32,7 +32,7 @@ export default function Sites({data}) {
                                             <Button basic color='green' target="_blank" rel="noopener noreferrer">
                                                 Analytics
                                             </Button>
-                                            <Button basic color='blue' target="_blank" rel="noopener noreferrer">
+                                            <Button basic color='blue' href={info.frontmatter.github} target="_blank" rel="noopener noreferrer">
                                                 Github (source)
                                             </Button>
                                         </div>
