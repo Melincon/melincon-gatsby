@@ -17,7 +17,7 @@ export default function Contact() {
                         <Container>
                             <Grid.Row textAlign='centered'>
                                 <p>
-                                    Please feel free to fill out the contact form for any reason. I will recieve a notification in my email and respond asap as possible. Messages from potential employers or potential clients welcome. Aside from pricing 
+                                    Please feel free to fill out this contact form for any reason. I will recieve a notification in my email and respond asap as possible. Messages from potential employers or potential clients welcome. If contracted for any website/software development services I request to reference the project from both my github and this website. Thank you for your interest in my site and thank you for taking the time to reach out, I look forward to hearing from you.
                                 </p>
                             </Grid.Row>
                         </Container>
