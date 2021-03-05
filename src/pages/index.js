@@ -14,7 +14,7 @@ export default function Index(){
           <Grid.Column>
             <Grid.Row>
               <p>
-                Melincon is a vision. I hope to grow this project into the "Technology Group" that I imagine it becomes. Within the confounds of this site you will see references to "Sites" and "Software". I hope my developing expertise on these two items will be a major selling point for this company. Data is what makes the world work, and what I have certainly worked with the most in my almost 25 short years.
+                Melincon is a vision. I hope to grow this project into the "Technology Group" that I imagine it becomes. Within the confines of this site you will see references to "Sites" and "Software". I hope my developing expertise on these two items will be a major selling point for this company. Data is what makes the world work, and what I have certainly worked with the most in my almost 25 short years.
               </p>
               <br />
             </Grid.Row>
