@@ -23,16 +23,16 @@ export default function Sites({data}) {
                             {splice.map((info) => (
                                 <Card>
                                     <Card.Content>
-                                        <Card.Header href={info.frontmatter.href}>{info.frontmatter.title}</Card.Header>
+                                        <Card.Header href={info.frontmatter.href} target="_blank" rel="noopener noreferrer">{info.frontmatter.title}</Card.Header>
                                         <Card.Meta>{info.frontmatter.catagory}</Card.Meta>
                                         <Card.Description>{info.internal.content}</Card.Description>
                                     </Card.Content>
                                     <Card.Content extra>
                                         <div className='ui two buttons'>
-                                            <Button basic color='green'>
+                                            <Button basic color='green' target="_blank" rel="noopener noreferrer">
                                                 Analytics
                                             </Button>
-                                            <Button basic color='blue'>
+                                            <Button basic color='blue' target="_blank" rel="noopener noreferrer">
                                                 Github (source)
                                             </Button>
                                         </div>

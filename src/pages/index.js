@@ -33,7 +33,7 @@ export default function Index(){
             </Grid.Row>
             <Grid.Row>
               <p>
-                My hopes is that this parent site will serve as a clear indicator of the path my life followed. I have hopes to become an actuary and earn a PHD in some facet of Mathematics. Hopefully I can continue to contribute to this parent project along the way as well. One day I hope people say "I want a Melincon site".
+                My hopes are that this parent site will serve as a clear indicator of the path my life followed. I have hopes to become an actuary and earn a PHD in some facet of Mathematics. Hopefully I can continue to contribute to this parent project along the way as well. One day I hope people say "I want a Melincon site".
               </p>
             </Grid.Row>
           </Grid.Column>
