@@ -27,7 +27,7 @@ export default function Index(){
           <Grid.Column>
             <Grid.Row>
               <p>
-                Many sites that you will find will fall under some sort of "Business Endeavor". These are some sort of million dollar idea thing that pops into my head. I figure why not build a site for these things to enhance my site building expertise, let others decide if those ideas are good or not. Some of these projects will be close to the hobby side. Either way im sure I will find some way to strengthen myself from either proper SEO implementation or advertisements.
+                Many sites linked from here fall under some sort of "Business Endeavor". These are some sort of million dollar idea thing that pops into my head. I figure why not build a site for these things to enhance my site building expertise, let others decide if those ideas are good or not. Some of these projects will be close to the hobby side. Either way im sure I will find some way to strengthen myself from either proper SEO implementation or advertisements.
               </p>
               <br />
             </Grid.Row>

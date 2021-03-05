@@ -3,7 +3,7 @@ title: "travisclaus.com"
 href: 'http://www.travisclaus.com'
 catagory: "Personal Site"
 type: "site-post"
-github: "https://github.com/Melincon/melincon-gatsby"
+github: ""
 stats: ""
 ---
 
