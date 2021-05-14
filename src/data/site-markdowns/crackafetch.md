@@ -1,9 +1,9 @@
 ---
 title: "crackafetch.com"
-href: 'http://www.crackafetch.com'
+href: "http://www.crackafetch.com"
 catagory: "Business"
 type: "site-post"
-github: ""
+github: "https://github.com/Melincon/crack-a-fetch"
 stats: ""
 ---
 
